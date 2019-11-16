@@ -152,7 +152,7 @@ input, select, textarea {
 		}
 
 	body {
-		background-color: #F3EFEF;
+		background-color: #ffffff;
 		color: #000000;
 	}
 
@@ -2496,8 +2496,8 @@ input, select, textarea {
 		input[type="url"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #47D3E5;
-			box-shadow: 0 0 0 1px #47D3E5;
+			border-color: black;
+			/* box-shadow: 0 0 0 1px #47D3E5; */
 		}
 
 	select {
